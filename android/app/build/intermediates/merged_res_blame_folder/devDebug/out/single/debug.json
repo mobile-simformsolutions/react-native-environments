@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/chetan.godiya/Documents/newApp/myApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

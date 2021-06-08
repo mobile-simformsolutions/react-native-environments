@@ -1,0 +1,7 @@
+#Tue Jun 08 18:20:41 IST 2021
+base.0=/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/dex/stagingDebug/mergeExtDexStagingDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/chetan.godiya/Documents/newApp/myApp/android/app/build/intermediates/dex/stagingDebug/mergeProjectDexStagingDebug/classes.dex

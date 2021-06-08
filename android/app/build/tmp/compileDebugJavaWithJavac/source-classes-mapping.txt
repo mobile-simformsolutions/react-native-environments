@@ -1,0 +1,3 @@
+com/myapp/MainApplication.java
+ com.myapp.MainApplication
+ com.myapp.MainApplication$1
