@@ -96,13 +96,13 @@ EOM
       ;;
   esac
 }
-if [[ "$CONFIGURATION" == "DebugDev" ]]; then
-  install_resource "${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle"
-fi
 if [[ "$CONFIGURATION" == "DebugProd" ]]; then
   install_resource "${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle"
 fi
 if [[ "$CONFIGURATION" == "DebugStaging" ]]; then
+  install_resource "${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle"
+fi
+if [[ "$CONFIGURATION" == "DebugDev" ]]; then
   install_resource "${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle"
 fi
 if [[ "$CONFIGURATION" == "ReleaseDev" ]]; then
